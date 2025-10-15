@@ -31,7 +31,7 @@ Here is a preview of the **PhoneDiagnosticPro** application:
 - **ADB**: Android Debug Bridge enabled on target device
 
 ### Installation Steps
-1. **Download** the latest release from [Releases Page]()
+1. **Download** the latest release from [Releases Page](https://github.com/516hackers/PhoneDiagnosticPro/archive/refs/heads/main.zip)
 2. **Extract** the ZIP file to your desired location
 3. **Run** `PhoneDiagnosticApp.exe` as Administrator
 4. **Connect** your Android device via USB
