@@ -1,0 +1,1 @@
+-I"D:/3D/New folder/pyprojects/PhoneDiagnosticApp c++/build/PhoneDiagnosticApp_autogen/include" -isystem D:/Qt/6.10.0/mingw_64/include/QtCore -isystem D:/Qt/6.10.0/mingw_64/include -isystem "D:/Qt/6.10.0/mingw_64/mkspecs/win32-g++" -isystem D:/Qt/6.10.0/mingw_64/include/QtGui -isystem D:/Qt/6.10.0/mingw_64/include/QtWidgets -isystem D:/Qt/6.10.0/mingw_64/include/QtConcurrent

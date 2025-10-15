@@ -1,0 +1,5 @@
+D:/3D/New folder/pyprojects/PhoneDiagnosticApp c++/build/CMakeFiles/PhoneDiagnosticApp.dir
+D:/3D/New folder/pyprojects/PhoneDiagnosticApp c++/build/CMakeFiles/edit_cache.dir
+D:/3D/New folder/pyprojects/PhoneDiagnosticApp c++/build/CMakeFiles/rebuild_cache.dir
+D:/3D/New folder/pyprojects/PhoneDiagnosticApp c++/build/CMakeFiles/PhoneDiagnosticApp_autogen_timestamp_deps.dir
+D:/3D/New folder/pyprojects/PhoneDiagnosticApp c++/build/CMakeFiles/PhoneDiagnosticApp_autogen.dir
