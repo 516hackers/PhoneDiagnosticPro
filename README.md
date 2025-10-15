@@ -12,6 +12,16 @@ Phone Diagnostic Pro is a comprehensive C++ Qt-based application for deep hardwa
 
 ---
 
+## 🖼️ Screenshots
+
+Here is a preview of the **PhoneDiagnosticPro** application:
+
+<img width="1366" height="727" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/a9aff9c3-e09e-4700-a932-4d698561c7f0" />
+
+
+
+
+
 ## 📥 Download & Installation
 
 ### System Requirements
@@ -28,6 +38,7 @@ Phone Diagnostic Pro is a comprehensive C++ Qt-based application for deep hardwa
 5. **Enable USB Debugging** on your Android device
 
 ---
+
 
 ## 🔧 How to Use
 
