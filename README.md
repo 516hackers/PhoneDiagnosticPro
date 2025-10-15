@@ -1,4 +1,6 @@
-# 📱 Phone Diagnostic Pro
+# 📱 Phone Diagnostic Pro  <a href="https://github.com/516hackers/PhoneDiagnosticPro/archive/refs/heads/main.zip" target="_blank"> <img src="https://img.shields.io/badge/⬇️%20Download%20Now-blue?style=for-the-badge&logo=github" alt="Download Latest Release"/>
+</a>
+  
 
 ![C++](https://img.shields.io/badge/C++-17-blue.svg)
 ![Qt](https://img.shields.io/badge/Qt-6.0-green.svg)
